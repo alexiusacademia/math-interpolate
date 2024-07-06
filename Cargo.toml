@@ -7,6 +7,6 @@ readme = "readme.md"
 repository = "https://github.com/alexiusacademia/math-interpolate"
 edition = "2021"
 license = "MIT"
-keywords = ["math interpolation", "interpolation", "interpolate", "linear interpolation"]
+keywords = ["math", "interpolation", "interpolate", "linear"]
 
 [dependencies]
