@@ -2,9 +2,17 @@
 
 `math-interpolate` is a Rust library that interpolates two points to calculate the third point in between them.
 
+## Installation
+
+```
+cargo add math-interpolate
+```
+
 ## Usage
 
 ```rust
+use math_interpolate::{interpolate, Point};
+
 let p1 = Point::new(0.0, 0.0);  // x, y is 0.0, 0.0
 let p2 = Point::new(5.0, 5.0);
 let x: f32 = 3.0;
