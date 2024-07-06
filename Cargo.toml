@@ -2,7 +2,11 @@
 name = "math-interpolate"
 description = "Linear interpolation between two points to calculate the 3rd point."
 version = "0.1.0"
+authors = ["syncster31"]
+readme = "readme.md"
+repository = "https://github.com/alexiusacademia/math-interpolate"
 edition = "2021"
 license = "MIT"
+keywords = ["math interpolation", "interpolation", "interpolate", "linear interpolation"]
 
 [dependencies]
