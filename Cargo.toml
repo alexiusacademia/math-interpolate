@@ -2,7 +2,7 @@
 name = "math-interpolate"
 description = "Linear interpolation between two points to calculate the 3rd point."
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 license = "MIT"
 
 [dependencies]
